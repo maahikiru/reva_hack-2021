@@ -11,6 +11,7 @@ Mission: We aim to patent this technology which would be a very much easier alte
 Area of application: International Cricket Sport
 
 PROCESS:{
+
 Aim: To detect whether a bowled ball is no-ball or not
 
 Apparatus required: Arduino UNO, TTP229-16 Channel Capacitive Touch Sensor (41nos.), USB power to Arduino, (Customised conduction sensor), (Shoes manufactured with customised conductive flexible sole), encrypted signal transmitter and receiver, crease paint
