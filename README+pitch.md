@@ -28,3 +28,11 @@ no. of minimum sensors required=crease length/sensor length, rounded off to next
 average bowling speed=90kmph=25m/s
 required minimum frequency of sensing delay=40ms
 programmed frequency of sensing delay=20ms
+
+*project prototype is ready and includes this much*
+
+additions to make this project into a viable real-life product:
+>using conduction sensors instead of touch sensors,
+>along with shoes with flexible conducting soles, to detect foot on sensor
+>using broadcasting module with Arduino to send signal to third umpire
+>using web developed program alongside Arduino to output third umpire's decision on scoreboard
