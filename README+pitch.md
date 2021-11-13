@@ -38,3 +38,6 @@ additions to make this project into a viable real-life product:
 >along with shoes with flexible conducting soles, to detect foot on sensor
 >using broadcasting module with Arduino to send signal to third umpire
 >using web developed program alongside Arduino to output third umpire's decision on scoreboard
+>website
+>gsm module
+>packet data passing
